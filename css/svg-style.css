@@ -1,0 +1,444 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+*,
+*:before,
+*:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+:focus,
+:active {
+	outline: none;
+}
+
+a:focus,
+a:active {
+	outline: none;
+}
+
+nav,
+footer,
+header,
+aside {
+	display: block;
+}
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+input,
+button,
+textarea {
+	font-family: inherit;
+}
+
+input::-ms-clear {
+	display: none;
+}
+
+button {
+	cursor: pointer;
+}
+
+button::-moz-focus-inner {
+	padding: 0;
+	border: 0;
+}
+
+a,
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+ul li {
+	list-style: none;
+}
+
+img {
+	vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: inherit;
+	font-weight: 400;
+}
+
+/*--------------------*/
+/*--------------------*/
+/*--------------------*/
+/*--------------------*/
+
+
+
+
+
+.cls-1 {
+	fill: #cf9f66;
+}
+
+.cls-2 {
+	fill: #89643d;
+}
+
+.cls-3 {
+	fill: #c45c00;
+}
+
+.cls-4 {
+	fill: #c98019;
+}
+
+.cls-5 {
+	fill: #eb9800;
+}
+
+.cls-6 {
+	fill: #d68b00;
+}
+
+.cls-7 {
+	fill: #ebba1d;
+}
+
+.cls-8 {
+	fill: #ffca1f;
+}
+
+.cls-9 {
+	fill: #ffd85e;
+}
+
+.cls-10 {
+	fill: #ffe38a;
+}
+
+.cls-11 {
+	fill: #d96600;
+}
+
+.cls-12 {
+	fill: #ffd03b;
+}
+
+.cls-13 {
+	fill: #ffe38c;
+}
+
+.cls-14 {
+	fill: #fff4d1;
+}
+
+.cls-15 {
+	fill: #fff0c2;
+}
+
+.cls-16,
+.cls-29 {
+	fill: #fff276;
+}
+
+.cls-16 {
+	opacity: 0.51;
+}
+
+.cls-17 {
+	fill: #fff2ff;
+}
+
+.cls-18 {
+	fill: #965030;
+}
+
+.cls-19 {
+	fill: #ffb95c;
+}
+
+.cls-20 {
+	fill: #ffe9cc;
+}
+
+.cls-21 {
+	fill: url(#linear-gradient);
+}
+
+.cls-22 {
+	fill: #ff9100;
+	opacity: 0.47;
+}
+
+.cls-23 {
+	fill: #70270f;
+}
+
+.cls-24 {
+	fill: url(#linear-gradient-2);
+}
+
+.cls-25 {
+	fill: url(#linear-gradient-3);
+}
+
+.cls-26 {
+	fill: #fff0db;
+}
+
+.cls-27 {
+	fill: #ffbc00;
+}
+
+.cls-28 {
+	fill: #fff8f0;
+}
+
+.cls-29 {
+	opacity: 0.24;
+}
+
+.cls-30 {
+	fill: #fff8ed;
+}
+
+.cls-31 {
+	fill: #fff;
+}
+
+.cls-32 {
+	fill: #351207;
+}
+
+.cls-33 {
+	fill: #4a190a;
+}
+
+.cls-34 {
+	fill: #6b240e;
+}
+
+.cls-35 {
+	fill: #009c08;
+}
+
+.cls-36 {
+	fill: #00c40a;
+}
+
+.cls-37 {
+	fill: #1cff28;
+}
+
+.clss-1 {
+	fill: #ffe9cc;
+}
+
+.clss-2 {
+	fill: #ffd59e;
+}
+
+.clss-3 {
+	fill: #c45c00;
+}
+
+.clss-4 {
+	fill: #c98019;
+}
+
+.clss-5 {
+	fill: #eb9800;
+}
+
+.clss-6 {
+	fill: #d68b00;
+}
+
+.clss-7 {
+	fill: #ebba1d;
+}
+
+.clss-8 {
+	fill: #ffca1f;
+}
+
+.clss-9 {
+	fill: #ffd85e;
+}
+
+.clss-10 {
+	fill: #ffe38a;
+}
+
+.clss-11 {
+	fill: #d96600;
+}
+
+.clss-12 {
+	fill: #ffd03b;
+}
+
+.clss-13 {
+	fill: #ffe38c;
+}
+
+.clss-14 {
+	fill: #fff4d1;
+}
+
+.clss-15 {
+	fill: #fff0c2;
+}
+
+.clss-16 {
+	fill: #fff;
+}
+
+.clss-17 {
+	fill: #f80;
+}
+
+.clss-18 {
+	fill: #fa0;
+}
+
+.clss-19 {
+	fill: #ff5900;
+}
+
+.clss-20 {
+	fill: #42ff4c;
+}
+
+.clss-21 {
+	fill: #21ff2d;
+}
+
+.clsss-1 {
+	fill: #af8756;
+}
+
+.clsss-2 {
+	fill: #89643d;
+}
+
+.clsss-3 {
+	fill: url(#linear-gradient);
+}
+
+.clsss-4 {
+	fill: #fff887;
+}
+
+.clsss-5 {
+	fill: #ffd757;
+}
+
+.clsss-6 {
+	fill: #fffaab;
+}
+
+.clsss-7 {
+	fill: #ffd85e;
+}
+
+.clsss-8 {
+	fill: #ffe699;
+}
+
+.clsss-9 {
+	fill: #ffd03b;
+}
+
+.clsss-10 {
+	fill: url(#linear-gradient-2);
+}
+
+.clsss-11,
+.clsss-16 {
+	fill: #56ff4a;
+}
+
+.clsss-11 {
+	opacity: 0.5;
+}
+
+.clsss-12 {
+	fill: url(#linear-gradient-3);
+}
+
+.clsss-13 {
+	fill: url(#linear-gradient-4);
+}
+
+.clsss-14 {
+	fill: url(#linear-gradient-5);
+}
+
+.clsss-15 {
+	fill: #21ff2d;
+}
+
+.clsss-17 {
+	fill: #ff5900;
+}
+
+.clsss-18 {
+	fill: #ff9500;
+}
+
+.clsss-19 {
+	fill: #ffe9cc;
+}
+
+.clsss-20 {
+	fill: #fff4e6;
+}
+
+.clsss-21 {
+	fill: #eaff4d;
+}
+
+.clsss-22 {
+	fill: #f3ff99;
+}
+
+.clsss-23 {
+	fill: #00c40a;
+}
+
+.clsss-24 {
+	fill: #ed9b00;
+}
+
+.clsss-25 {
+	fill: url(#linear-gradient-6);
+}
+
+.clsss-26 {
+	fill: url(#linear-gradient-7);
+}
+
+.clsss-27 {
+	fill: url(#linear-gradient-8);
+}
